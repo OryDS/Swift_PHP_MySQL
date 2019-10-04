@@ -7,10 +7,10 @@
 
 
 
-
-
-
-  
-  
-  
 Application written with Swift 5.1 on Xcode 11.0
+
+You'll see how to save data on a web server by sending some values from an iOS application to the MySQL database.
+
+Before using this iOS project, you need to have a development environment like MAMP or XAMPP to get a remote server with MySQL database and write the PHP script on it.
+Remember that you need to sort your server settings in the PHP file like Hosting, Username, Password, DB Name and Table.
+
