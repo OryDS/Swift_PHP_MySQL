@@ -14,3 +14,4 @@ You'll see how to save data on a web server by sending some values from an iOS a
 Before using this iOS project, you need to have a development environment like MAMP or XAMPP to get a remote server with MySQL database and write the PHP script on it.
 Remember that you need to sort your server settings in the PHP file like Hosting, Username, Password, DB Name and Table.
 
+More info here: [Save data on a web server from an iOS application](https://medium.com/@jkdory83/save-data-on-a-web-server-from-an-ios-application-d1d35196f65b)
