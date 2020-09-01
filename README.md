@@ -3,7 +3,7 @@
 [![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-11.0-blue.svg)](https://developer.apple.com/xcode)
 [![PHP](https://img.shields.io/static/v1?label=PHP&message=^7.1.3&color=blueviolet)](https://www.php.net/)
-[![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8.0&color=yellow)](https://www.php.net/)
+[![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8.0&color=yellow)](https://www.mysql.com/)
 
 
 
